@@ -4,10 +4,6 @@ Flask-based web interface for Gaussian Shading watermarking with Stable Diffusio
 
 ## Setup Instructions
 
-### Prerequisites
-- Python 3.8+
-- NVIDIA GPU with CUDA support
-
 ### Installation
 
 1. Clone the repository:
